@@ -1,0 +1,7 @@
+greeting:
+  message: "hello"
+
+quarkus:
+  http:
+    port: 8686
+
